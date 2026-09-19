@@ -97,7 +97,7 @@ The processed text can be used as a foundation for tasks such as:
 Through this project, I learned:
 
 * How to work with a large textual dataset.
-* How raw NLP data can be prepared for machine learning.
+* How raw NLP data can be prepared for machine learning (ML).
 * The importance of consistent text representation.
 * How preprocessing fits into an NLP workflow.
 * How cleaned text can be used for downstream NLP tasks.
